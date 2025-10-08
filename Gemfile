@@ -20,6 +20,8 @@ gem "jbuilder"
 # CORS support for API
 gem "rack-cors"
 
+gem "mysql2"
+
 # Active Model Serializers for JSON API responses
 gem "active_model_serializers", "~> 0.10.0"
 
