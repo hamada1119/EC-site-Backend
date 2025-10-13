@@ -22,6 +22,10 @@ gem "rack-cors"
 
 gem "mysql2"
 
+gem 'devise'
+
+gem 'devise-jwt' 
+
 # Active Model Serializers for JSON API responses
 gem "active_model_serializers", "~> 0.10.0"
 
